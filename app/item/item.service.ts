@@ -51,8 +51,8 @@ export class ItemService {
             onError: (err) => {
                 console.log("onError " + err);
             }
-        }).then((e) => {
-            console.log("subscribe on colection " + e);
+        }).then(() => {
+            console.log("subscribe on colection sucess");
         })
     }
 
