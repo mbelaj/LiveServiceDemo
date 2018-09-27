@@ -1,0 +1,1 @@
+org.nativescript.kinvey_nativescript_sdk

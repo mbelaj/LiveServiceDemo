@@ -1,0 +1,31 @@
+{
+	"time": "Thu Sep 27 2018 09:27:55 GMT+0200 (CEST)",
+	"nativePlatformStatus": "3",
+	"bundle": false,
+	"release": false,
+	"changesRequireBuild": false,
+	"projectFileHash": "1a5df6de8d6064285854bd698ba0d02102e2d8b53c0118d7855036bc5b286307",
+	"changesRequireBuildTime": "Thu Sep 27 2018 08:23:38 GMT+0200 (CEST)",
+	"appFilesHashes": {
+		"/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/app/README.md": "8c8864ad8d993bf004e65d7be1bf3715d3233bc1",
+		"/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/app/app.component.html": "611325f92aae874130d34a7621cbbd3eabd48aac",
+		"/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/app/app.component.js": "d61aef986c5ac89384a3ff6db745180c9778b2d4",
+		"/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/app/app.component.ts": "227c8bbc8ec66545d4b8a8f01ab370490e76e256",
+		"/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/app/app.css": "24f81ff5c41798f4671899fdc9d85993fbf27059",
+		"/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/app/app.module.js": "9dad607fb43c41c8e2919ba0176f52126ac0dfa8",
+		"/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/app/app.module.ngfactory.d.ts": "efd772f80676035988b3a2fc2b249d24a9b13f5c",
+		"/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/app/app.module.ts": "f8596466c46bc380aff47bcf0f107a5661c7c43d",
+		"/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/app/app.routing.js": "871ae8d0b673a9f29d9b28135ddc9ed6fad35da0",
+		"/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/app/app.routing.ts": "1ab0ba8904e713b901bf23a54757332374b3c112",
+		"/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/app/item/item.service.js": "56917114447001e1a296382143f0fa9737ff9eb2",
+		"/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/app/item/item.service.ts": "6f696fbce32c6b0cd6480105294516ef645dfa2a",
+		"/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/app/item/items.component.html": "e9438fbbca0c8572de9208830089e0b7693d508c",
+		"/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/app/item/items.component.js": "73ed29f398246da49437b7d898f191ab87678244",
+		"/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/app/item/items.component.ts": "50bbd522a49dc9d9464ccf6db985538643ca0b5b",
+		"/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/app/main.aot.ts": "ef9598ed4f3baa376c80a9ddb552f6814344d26a",
+		"/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/app/main.aot.js": "82972974db53efeab4b1f1b29aaf4fe68351bd6d",
+		"/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/app/main.js": "3c638347666b9de65aaff3ee5515e589052f2956",
+		"/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/app/main.ts": "e32f3296ff0b2069b82c1bf946c6af3923a2513d",
+		"/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/app/package.json": "6e42976af5c4522920806359659a56bff0258086"
+	}
+}
