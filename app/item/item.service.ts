@@ -21,11 +21,9 @@ export class ItemService {
                     break;
                 case connectivityModule.connectionType.wifi:
                 case connectivityModule.connectionType.mobile:
-                    this.dataStore.unsubscribe().then(() => {
-                        Kinvey.User.unregisterFromLiveService().then(() => {
-                            this.liveServiceRegister();
-                        });
-                    })
+                    Kinvey.User.unregisterFromLiveService().then(() => {
+                        this.liveServiceRegister();
+                    });
                     break;
                 default:
                     break;

@@ -1,5 +1,5 @@
 {
-	"time": "Sat Oct 13 2018 09:45:50 GMT+0200 (CEST)",
+	"time": "Sat Oct 13 2018 10:17:17 GMT+0200 (CEST)",
 	"nativePlatformStatus": "3",
 	"bundle": false,
 	"release": false,
@@ -17,8 +17,8 @@
 		"/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/app/app.module.ts": "f8596466c46bc380aff47bcf0f107a5661c7c43d",
 		"/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/app/app.routing.js": "871ae8d0b673a9f29d9b28135ddc9ed6fad35da0",
 		"/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/app/app.routing.ts": "1ab0ba8904e713b901bf23a54757332374b3c112",
-		"/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/app/item/item.service.js": "7bb3639f93eb56c6665e18b3f7fd8d20980e3f9a",
-		"/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/app/item/item.service.ts": "99ca3437076c4b96b42763b30894b35e804d08ec",
+		"/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/app/item/item.service.js": "1f258451a6b59f086b122c7d573d70dc47090a15",
+		"/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/app/item/item.service.ts": "6c8cd032855f47a7c8e49cf3ab8061f54153a074",
 		"/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/app/item/items.component.html": "e9438fbbca0c8572de9208830089e0b7693d508c",
 		"/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/app/item/items.component.js": "256b78a49b0ef1f167f99e829b4d7f03d91f3770",
 		"/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/app/item/items.component.ts": "e1888deceed59ca2ac644aa164c4d73881c84ec6",
