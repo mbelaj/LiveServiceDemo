@@ -12,7 +12,9 @@
 /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/build/exploded-dependencies/10/gson-2.4.jar
 /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/build/exploded-dependencies/19/classes.jar
 /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/build/exploded-dependencies/8/classes.jar
-/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/build/exploded-dependencies/21/support-annotations-26.0.0-alpha1.jar
+/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/build/exploded-dependencies/21/support-annotations-27.0.2.jar
+/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/build/exploded-dependencies/24/common-1.0.0.jar
+/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/build/exploded-dependencies/23/common-1.0.3.jar
 /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/build/exploded-dependencies/4/classes.jar
 /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/build/exploded-dependencies/15/classes.jar
 /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/build/exploded-dependencies/3/classes.jar
@@ -21,4 +23,4 @@
 /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/build/exploded-dependencies/13/classes.jar
 /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/build/exploded-dependencies/5/classes.jar
 /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/build/exploded-dependencies/14/classes.jar
-/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/build/intermediates/classes/debug
+/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/build/exploded-dependencies/22/classes.jar

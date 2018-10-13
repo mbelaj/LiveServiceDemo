@@ -5,6 +5,9 @@
 /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/assets/app/item/items.component.js
 /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/assets/app/item/item.service.js
 /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/assets/app/app.module.js
+/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/assets/app/tns_modules/nativescript-urlhandler/urlhandler.js
+/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/assets/app/tns_modules/nativescript-urlhandler/hooks/before-livesync/nativescript-angular-sync.js
+/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/assets/app/tns_modules/nativescript-urlhandler/urlhandler.common.js
 /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/assets/app/tns_modules/nativescript-angular/directives/action-bar.js
 /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/assets/app/tns_modules/nativescript-angular/directives/list-view-comp.js
 /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/assets/app/tns_modules/nativescript-angular/directives/index.js
@@ -238,3 +241,6 @@
 /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/assets/app/tns_modules/kinvey-nativescript-sdk/file-upload-worker-android.js
 /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/assets/app/tns_modules/kinvey-nativescript-sdk/kinvey-nativescript-sdk.js
 /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/assets/app/tns_modules/kinvey-nativescript-sdk/push.js
+/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/assets/app/tns_modules/kinvey-nativescript-sdk/lib/before-checkForChanges.js
+/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/assets/app/tns_modules/kinvey-nativescript-sdk/lib/postinstall.js
+/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/assets/app/tns_modules/kinvey-nativescript-sdk/lib/preuninstall.js

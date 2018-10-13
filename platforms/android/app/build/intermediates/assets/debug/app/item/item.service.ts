@@ -8,10 +8,10 @@ const connectivityModule = require("tns-core-modules/connectivity");
 export class ItemService {
 
     @Output() newMessage: EventEmitter<number>;
-    
+
     dataStore = Kinvey.DataStore.collection('LiveServiceDemo', Kinvey.DataStoreType.Network);
 
-    constructor(){
+    constructor() {
         this.newMessage = new EventEmitter();
 
         connectivityModule.startMonitoring((newConnectionType) => {
@@ -21,7 +21,11 @@ export class ItemService {
                     break;
                 case connectivityModule.connectionType.wifi:
                 case connectivityModule.connectionType.mobile:
-                    this.liveServiceRegister();
+                    this.dataStore.unsubscribe().then(() => {
+                        Kinvey.User.unregisterFromLiveService().then(() => {
+                            this.liveServiceRegister();
+                        });
+                    })
                     break;
                 default:
                     break;
@@ -43,7 +47,8 @@ export class ItemService {
         this.dataStore.subscribe({
             onMessage: (m) => {
                 console.log("onMessage " + JSON.stringify(m));
-                this.newMessage.emit(m);
+                let x: any = JSON.stringify(m)
+                this.newMessage.emit(x);
             },
             onStatus: (s) => {
                 console.log("onStatus " + s);
@@ -51,6 +56,8 @@ export class ItemService {
             onError: (err) => {
                 console.log("onError " + err);
             }
+        }).then(() => {
+            console.log("subscribe on colection sucess");
         })
     }
 

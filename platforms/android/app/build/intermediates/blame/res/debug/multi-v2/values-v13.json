@@ -4,7 +4,7 @@
             "outputFile": "/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v13/values-v13.xml",
             "map": [
                 {
-                    "source": "/Users/mbelaj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/dfbfdd556b88f8cf818b095532fbed0a/res/values-v13/values-v13.xml",
+                    "source": "/Users/mbelaj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/1c3f64ea7502bbc9d46ffba119c5bafb/res/values-v13/values-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

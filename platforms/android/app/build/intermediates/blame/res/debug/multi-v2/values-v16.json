@@ -4,13 +4,32 @@
             "outputFile": "/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/mbelaj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/dfbfdd556b88f8cf818b095532fbed0a/res/values-v16/values-v16.xml",
+                    "source": "/Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/89a5e0b126cafbaca3c37741e617f50a/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "55",
                         "endColumns": "65",
                         "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/Users/mbelaj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/1c3f64ea7502bbc9d46ffba119c5bafb/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
                     }
                 }
             ]

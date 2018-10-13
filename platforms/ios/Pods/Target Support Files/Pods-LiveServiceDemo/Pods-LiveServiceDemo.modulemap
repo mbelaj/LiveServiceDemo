@@ -1,0 +1,6 @@
+framework module Pods_LiveServiceDemo {
+  umbrella header "Pods-LiveServiceDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

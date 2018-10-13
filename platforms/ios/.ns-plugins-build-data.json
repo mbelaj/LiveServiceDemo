@@ -1,0 +1,25 @@
+{
+	"kinvey-nativescript-sdk": {
+		"/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/node_modules/kinvey-nativescript-sdk/platforms/ios/Info.default.plist": "06c4786a62b8e534feef7c6b4278c0ce0ee7080b",
+		"/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/node_modules/kinvey-nativescript-sdk/platforms/ios/Podfile": "59b443f5b780dc64b17a70338975a6829c1dda39",
+		"/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/node_modules/kinvey-nativescript-sdk/platforms/ios/app.entitlements": "2952fa332916d525b13bfa3f2338e4c2506f5c49"
+	},
+	"nativescript-sqlite": {
+		"/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/node_modules/nativescript-sqlite/platforms/ios/module.modulemap": "6c7bd53f95451d702c3ad8172f1e21b481445423",
+		"/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/node_modules/nativescript-sqlite/platforms/ios/build.xcconfig": "b36bc043e0db8efa03e97c0e13e0ff609476cf2f",
+		"/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/node_modules/nativescript-sqlite/platforms/ios/sqlitewrapper.framework/Headers/sqlitehelper.h": "b94234c5268ef522d7f0e57c7e885a0b9fe99455",
+		"/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/node_modules/nativescript-sqlite/platforms/ios/sqlitewrapper.framework/Headers/sqlitewrapper.h": "389bc3c906f08fa76526c0add1c0c5401f82e08c",
+		"/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/node_modules/nativescript-sqlite/platforms/ios/sqlitewrapper.framework/Info.plist": "a71ee4c7341d62057713c8de2c947af7ede6414d",
+		"/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/node_modules/nativescript-sqlite/platforms/ios/sqlitewrapper.framework/Modules/module.modulemap": "0f7f796c116f7b44cd310f61331aefc883e93a4e",
+		"/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/node_modules/nativescript-sqlite/platforms/ios/sqlitewrapper.framework/sqlitewrapper": "aef0b38e1049d87171b4d2d208160f3e43e40498"
+	},
+	"tns-core-modules-widgets": {
+		"/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Headers/TNSLabel.h": "c7c5788d3ea834d96cf8a137cbf0c4ea28fd7829",
+		"/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Headers/TNSProcess.h": "787f09c57ede174d6323990e6d6e9eaf134da6f0",
+		"/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Headers/TNSWidgets.h": "9b1b8c8e2701901f1ddeebe67c2ca3b0f95b0281",
+		"/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Headers/UIImage+TNSBlocks.h": "3b31a5be818e25c142e99f98479c538632d350ae",
+		"/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Info.plist": "864e17746640968d5f009d42aa6ea08daf16e662",
+		"/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Modules/module.modulemap": "00d2220e76eb098f1808eb4e9b5c43ad4cadf1da",
+		"/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/TNSWidgets": "6675deab937d42fa5ead11c9a26753158c7af612"
+	}
+}

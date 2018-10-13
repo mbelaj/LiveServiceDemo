@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LiveServiceDemo.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>993774D006E717B82AD57F43662C3C97DECE6712</string>
+				<key>dateExpires</key>
+				<string>21.05.2019.</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>993774D006E717B82AD57F43662C3C97DECE6712</string>
+						<key>dateExpires</key>
+						<string>21.05.2019.</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>NativeScript.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>WJ9D8T3DVW</string>
+						<key>name</key>
+						<string>VIS Promotex d.o.o.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>993774D006E717B82AD57F43662C3C97DECE6712</string>
+						<key>dateExpires</key>
+						<string>21.05.2019.</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>SAMKeychain.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>WJ9D8T3DVW</string>
+						<key>name</key>
+						<string>VIS Promotex d.o.o.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>993774D006E717B82AD57F43662C3C97DECE6712</string>
+						<key>dateExpires</key>
+						<string>21.05.2019.</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>TNSWidgets.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>WJ9D8T3DVW</string>
+						<key>name</key>
+						<string>VIS Promotex d.o.o.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>993774D006E717B82AD57F43662C3C97DECE6712</string>
+						<key>dateExpires</key>
+						<string>21.05.2019.</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>sqlitewrapper.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>WJ9D8T3DVW</string>
+						<key>name</key>
+						<string>VIS Promotex d.o.o.</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>WJ9D8T3DVW.org.nativescript.LiveServiceDemo</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>WJ9D8T3DVW</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>WJ9D8T3DVW.</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>LiveServiceDemo.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>28f8af2a-e021-41de-a757-5b0a4391522f</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: *</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>WJ9D8T3DVW</string>
+				<key>name</key>
+				<string>VIS Promotex d.o.o.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

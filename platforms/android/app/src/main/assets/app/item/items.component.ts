@@ -22,8 +22,9 @@ export class ItemsComponent implements OnInit {
         this.itemService.liveServiceRegister();
 
         this.myEventSubscription = this.itemService.newMessage.subscribe(m => {
-            console.log("Poruka: " + m.Test);
-            this.message = m.Test;
+            let x = JSON.parse(m);
+            console.log("Poruka: " + x.Test);
+            this.message = x.Test;
             this.test = "";
         });        
     }

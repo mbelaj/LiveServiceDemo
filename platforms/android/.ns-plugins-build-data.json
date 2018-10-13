@@ -1,0 +1,9 @@
+{
+	"kinvey-nativescript-sdk": {
+		"/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/node_modules/kinvey-nativescript-sdk/platforms/android/AndroidManifest.default.xml": "b0796a3cc172a00335d0d885d01c3412dea8dedc",
+		"/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/node_modules/kinvey-nativescript-sdk/platforms/android/include.gradle": "6b61628bf923a8d7f8d9230f96ec0ea09621c6fb"
+	},
+	"tns-core-modules-widgets": {
+		"/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/node_modules/tns-core-modules-widgets/platforms/android/widgets-release.aar": "85168be13bc1b546c0f1d53f46bb892118ba3d9f"
+	}
+}

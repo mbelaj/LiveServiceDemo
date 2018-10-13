@@ -20,6 +20,10 @@
         "directory": "../../node_modules/nativescript-sqlite"
     },
     {
+        "name": "nativescript-urlhandler",
+        "directory": "../../node_modules/nativescript-urlhandler"
+    },
+    {
         "name": "nativescript-intl",
         "directory": "../../node_modules/nativescript-intl"
     },

@@ -4,7 +4,7 @@
             "outputFile": "/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
-                    "source": "/Users/mbelaj/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/39af7c1af022f3ad03d34912617dd08f/res/values-land/values-land.xml",
+                    "source": "/Users/mbelaj/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/60ff648d178dcb8e3b15058d5f368d6d/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/Users/mbelaj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/dfbfdd556b88f8cf818b095532fbed0a/res/values-land/values-land.xml",
+                    "source": "/Users/mbelaj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/1c3f64ea7502bbc9d46ffba119c5bafb/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

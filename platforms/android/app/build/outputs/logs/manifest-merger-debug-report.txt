@@ -1,30 +1,31 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
-INJECTED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
-INJECTED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
-INJECTED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
-MERGED from [com.orhanobut:hawk:2.0.1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/hawk-2.0.1.aar/aa090132ffab091bcffb19daa51feb3f/AndroidManifest.xml:2:1-8:12
-MERGED from [com.android.support:design:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/39af7c1af022f3ad03d34912617dd08f/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:multidex:1.0.2] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/0a52dc19a8c52b0e6fcaa625cf4dc955/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/dfbfdd556b88f8cf818b095532fbed0a/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/b6e3b663c6b3376bd9162ff3259bc1e5/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/b9072d9edc23257a7d2352969332cbda/AndroidManifest.xml:17:1-31:12
-MERGED from [:nativescript-optimized-with-inspector:] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/nativescript-optimized-with-inspector.aar/468c0b3312f6e0059ade20f1fc1e5f09/AndroidManifest.xml:2:1-11:12
-MERGED from [:kinvey_nativescript_sdk:] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/kinvey_nativescript_sdk.aar/6604cf994bf69d3e1d19f8cc054afac8/AndroidManifest.xml:2:1-11:12
-MERGED from [:widgets-release:] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/807be022d92fceeb4b1533b84baede28/AndroidManifest.xml:2:1-14:12
-MERGED from [com.facebook.conceal:conceal:1.1.3] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/conceal-1.1.3.aar/a3d0888f544f40ddb2ace02ce5d48b89/AndroidManifest.xml:7:1-16:12
-MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/ad4cad7145cacdece62d7a20d4e974c9/AndroidManifest.xml:17:1-26:12
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/3d91011b79815dcea0a84373a4a65730/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/145ad8a3f3d374ee6eb7358742566d0e/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/5c06333f53fb4503dd1dce884f996cf8/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/e9b740f1bdea4b272eb0bd074db11851/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/912bc2f956c56447d546e37c3c5b17e7/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/b39e9d199182231644183d5e832b06ca/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/78ec2d528e2a4c99239218295f3d4a5e/AndroidManifest.xml:17:1-31:12
-INJECTED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
-INJECTED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
-INJECTED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+ADDED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:2:1-44:12
+MERGED from [com.orhanobut:hawk:2.0.1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/hawk-2.0.1.aar/033276cb834f435e56d52d965cad63a1/AndroidManifest.xml:2:1-8:12
+MERGED from [com.android.support:design:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/60ff648d178dcb8e3b15058d5f368d6d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/1c3f64ea7502bbc9d46ffba119c5bafb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:27.0.2] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/1ea75602d70380db36143a939097e082/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:multidex:1.0.2] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/3cc5c13eaae06bd9ade830edd8429ee6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/b37d847ade2b180d0992be0a664ccd90/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/bc7ce94141eb3b06e9e8a6358dd85b5f/AndroidManifest.xml:17:1-31:12
+MERGED from [:nativescript-optimized-with-inspector:] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/nativescript-optimized-with-inspector.aar/ecd1f0fddd0e51152164d58797681ea8/AndroidManifest.xml:2:1-11:12
+MERGED from [:widgets-release:] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/03560575c973d6fc8c43c6a3e35ba2a5/AndroidManifest.xml:2:1-14:12
+MERGED from [com.facebook.conceal:conceal:1.1.3] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/conceal-1.1.3.aar/78e7032be2237bd5e8b9bab1938f15b8/AndroidManifest.xml:7:1-16:12
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/50901efe304b69fadc9084acf5ade1b6/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/b790104396797272146d7744ec3b0eea/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/8b187c4e405bc1424b96da7e95275c61/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/7a8d90ea16f759394efaf8ff2db98934/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/cb7146aad06b71a75a779a255bda68e4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/23c027cb3ba470262ba3e332c5e2c0c4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/c9d5dfe1bd7479e23148ba6fcc71bcf1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/89a5e0b126cafbaca3c37741e617f50a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/c7c8f589cd2929ab64d53ea1bdd6f5e0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:2:1-44:12
 	package
 		ADDED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:3:2-44
 		INJECTED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml
@@ -53,46 +54,48 @@ uses-sdk
 ADDED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
 INJECTED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
 INJECTED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
-MERGED from [com.orhanobut:hawk:2.0.1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/hawk-2.0.1.aar/aa090132ffab091bcffb19daa51feb3f/AndroidManifest.xml:6:5-44
-MERGED from [com.orhanobut:hawk:2.0.1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/hawk-2.0.1.aar/aa090132ffab091bcffb19daa51feb3f/AndroidManifest.xml:6:5-44
-MERGED from [com.android.support:design:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/39af7c1af022f3ad03d34912617dd08f/AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:design:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/39af7c1af022f3ad03d34912617dd08f/AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:multidex:1.0.2] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/0a52dc19a8c52b0e6fcaa625cf4dc955/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:multidex:1.0.2] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/0a52dc19a8c52b0e6fcaa625cf4dc955/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/dfbfdd556b88f8cf818b095532fbed0a/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/dfbfdd556b88f8cf818b095532fbed0a/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/b6e3b663c6b3376bd9162ff3259bc1e5/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/b6e3b663c6b3376bd9162ff3259bc1e5/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/b9072d9edc23257a7d2352969332cbda/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/b9072d9edc23257a7d2352969332cbda/AndroidManifest.xml:21:5-23:54
-MERGED from [:nativescript-optimized-with-inspector:] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/nativescript-optimized-with-inspector.aar/468c0b3312f6e0059ade20f1fc1e5f09/AndroidManifest.xml:7:5-9:41
-MERGED from [:nativescript-optimized-with-inspector:] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/nativescript-optimized-with-inspector.aar/468c0b3312f6e0059ade20f1fc1e5f09/AndroidManifest.xml:7:5-9:41
-MERGED from [:kinvey_nativescript_sdk:] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/kinvey_nativescript_sdk.aar/6604cf994bf69d3e1d19f8cc054afac8/AndroidManifest.xml:7:5-47
-MERGED from [:kinvey_nativescript_sdk:] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/kinvey_nativescript_sdk.aar/6604cf994bf69d3e1d19f8cc054afac8/AndroidManifest.xml:7:5-47
-MERGED from [:widgets-release:] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/807be022d92fceeb4b1533b84baede28/AndroidManifest.xml:7:5-9:41
-MERGED from [:widgets-release:] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/807be022d92fceeb4b1533b84baede28/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.conceal:conceal:1.1.3] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/conceal-1.1.3.aar/a3d0888f544f40ddb2ace02ce5d48b89/AndroidManifest.xml:12:5-14:41
-MERGED from [com.facebook.conceal:conceal:1.1.3] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/conceal-1.1.3.aar/a3d0888f544f40ddb2ace02ce5d48b89/AndroidManifest.xml:12:5-14:41
-MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/ad4cad7145cacdece62d7a20d4e974c9/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/ad4cad7145cacdece62d7a20d4e974c9/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/3d91011b79815dcea0a84373a4a65730/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/3d91011b79815dcea0a84373a4a65730/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/145ad8a3f3d374ee6eb7358742566d0e/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/145ad8a3f3d374ee6eb7358742566d0e/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/5c06333f53fb4503dd1dce884f996cf8/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/5c06333f53fb4503dd1dce884f996cf8/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/e9b740f1bdea4b272eb0bd074db11851/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/e9b740f1bdea4b272eb0bd074db11851/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/912bc2f956c56447d546e37c3c5b17e7/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/912bc2f956c56447d546e37c3c5b17e7/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/b39e9d199182231644183d5e832b06ca/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/b39e9d199182231644183d5e832b06ca/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/78ec2d528e2a4c99239218295f3d4a5e/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/78ec2d528e2a4c99239218295f3d4a5e/AndroidManifest.xml:21:5-23:58
+MERGED from [com.orhanobut:hawk:2.0.1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/hawk-2.0.1.aar/033276cb834f435e56d52d965cad63a1/AndroidManifest.xml:6:5-44
+MERGED from [com.orhanobut:hawk:2.0.1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/hawk-2.0.1.aar/033276cb834f435e56d52d965cad63a1/AndroidManifest.xml:6:5-44
+MERGED from [com.android.support:design:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/60ff648d178dcb8e3b15058d5f368d6d/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/60ff648d178dcb8e3b15058d5f368d6d/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/1c3f64ea7502bbc9d46ffba119c5bafb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/1c3f64ea7502bbc9d46ffba119c5bafb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/1ea75602d70380db36143a939097e082/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/1ea75602d70380db36143a939097e082/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:multidex:1.0.2] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/3cc5c13eaae06bd9ade830edd8429ee6/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/3cc5c13eaae06bd9ade830edd8429ee6/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/b37d847ade2b180d0992be0a664ccd90/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/b37d847ade2b180d0992be0a664ccd90/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/bc7ce94141eb3b06e9e8a6358dd85b5f/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/bc7ce94141eb3b06e9e8a6358dd85b5f/AndroidManifest.xml:21:5-23:54
+MERGED from [:nativescript-optimized-with-inspector:] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/nativescript-optimized-with-inspector.aar/ecd1f0fddd0e51152164d58797681ea8/AndroidManifest.xml:7:5-9:41
+MERGED from [:nativescript-optimized-with-inspector:] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/nativescript-optimized-with-inspector.aar/ecd1f0fddd0e51152164d58797681ea8/AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/03560575c973d6fc8c43c6a3e35ba2a5/AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/03560575c973d6fc8c43c6a3e35ba2a5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.conceal:conceal:1.1.3] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/conceal-1.1.3.aar/78e7032be2237bd5e8b9bab1938f15b8/AndroidManifest.xml:12:5-14:41
+MERGED from [com.facebook.conceal:conceal:1.1.3] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/conceal-1.1.3.aar/78e7032be2237bd5e8b9bab1938f15b8/AndroidManifest.xml:12:5-14:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/50901efe304b69fadc9084acf5ade1b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/50901efe304b69fadc9084acf5ade1b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/b790104396797272146d7744ec3b0eea/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/b790104396797272146d7744ec3b0eea/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/8b187c4e405bc1424b96da7e95275c61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/8b187c4e405bc1424b96da7e95275c61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/7a8d90ea16f759394efaf8ff2db98934/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/7a8d90ea16f759394efaf8ff2db98934/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/cb7146aad06b71a75a779a255bda68e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/cb7146aad06b71a75a779a255bda68e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/23c027cb3ba470262ba3e332c5e2c0c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/23c027cb3ba470262ba3e332c5e2c0c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/c9d5dfe1bd7479e23148ba6fcc71bcf1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/c9d5dfe1bd7479e23148ba6fcc71bcf1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/89a5e0b126cafbaca3c37741e617f50a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/89a5e0b126cafbaca3c37741e617f50a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/c7c8f589cd2929ab64d53ea1bdd6f5e0/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/c7c8f589cd2929ab64d53ea1bdd6f5e0/AndroidManifest.xml:20:5-22:41
 INJECTED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
 INJECTED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/39af7c1af022f3ad03d34912617dd08f/AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/60ff648d178dcb8e3b15058d5f368d6d/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
 		ADDED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:15:3-32
 		INJECTED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml
@@ -100,7 +103,6 @@ INJECTED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/ap
 	android:minSdkVersion
 		ADDED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:14:3-29
 		INJECTED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml
-		MERGED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:14:3-29
 		INJECTED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
 ADDED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:17:2-76
@@ -114,101 +116,73 @@ uses-permission#android.permission.INTERNET
 ADDED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:19:2-63
 	android:name
 		ADDED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:19:19-61
-application
-ADDED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:21:2-42:16
-MERGED from [com.android.support:design:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/39af7c1af022f3ad03d34912617dd08f/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:design:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/39af7c1af022f3ad03d34912617dd08f/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/dfbfdd556b88f8cf818b095532fbed0a/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/dfbfdd556b88f8cf818b095532fbed0a/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/b6e3b663c6b3376bd9162ff3259bc1e5/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/b6e3b663c6b3376bd9162ff3259bc1e5/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/b9072d9edc23257a7d2352969332cbda/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/b9072d9edc23257a7d2352969332cbda/AndroidManifest.xml:29:5-20
-MERGED from [:widgets-release:] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/807be022d92fceeb4b1533b84baede28/AndroidManifest.xml:11:5-12:19
-MERGED from [:widgets-release:] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/807be022d92fceeb4b1533b84baede28/AndroidManifest.xml:11:5-12:19
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/3d91011b79815dcea0a84373a4a65730/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/3d91011b79815dcea0a84373a4a65730/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/145ad8a3f3d374ee6eb7358742566d0e/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/145ad8a3f3d374ee6eb7358742566d0e/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/5c06333f53fb4503dd1dce884f996cf8/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/5c06333f53fb4503dd1dce884f996cf8/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/e9b740f1bdea4b272eb0bd074db11851/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/e9b740f1bdea4b272eb0bd074db11851/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/912bc2f956c56447d546e37c3c5b17e7/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/912bc2f956c56447d546e37c3c5b17e7/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/b39e9d199182231644183d5e832b06ca/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/b39e9d199182231644183d5e832b06ca/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/78ec2d528e2a4c99239218295f3d4a5e/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/78ec2d528e2a4c99239218295f3d4a5e/AndroidManifest.xml:29:5-20
-	android:label
-		ADDED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:25:3-35
-	android:icon
-		ADDED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:24:3-32
-	android:allowBackup
-		ADDED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:23:3-29
-	android:theme
-		ADDED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:26:3-34
-	android:name
-		ADDED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:22:3-49
-activity#com.tns.NativeScriptActivity
-ADDED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:28:3-40:14
-	android:label
-		ADDED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:30:4-49
-	android:configChanges
-		ADDED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:31:4-65
-	android:theme
-		ADDED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:32:4-44
-	android:name
-		ADDED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:29:4-47
-meta-data#SET_THEME_ON_LAUNCH
-ADDED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:34:4-87
-	android:resource
-		ADDED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:34:50-84
-	android:name
-		ADDED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:34:15-49
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:36:4-39:20
-action#android.intent.action.MAIN
-ADDED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:37:5-57
-	android:name
-		ADDED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:37:13-54
-category#android.intent.category.LAUNCHER
-ADDED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:38:5-65
-	android:name
-		ADDED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:38:15-62
-activity#com.tns.ErrorReportActivity
-ADDED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:41:3-57
-	android:name
-		ADDED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:41:13-55
-meta-data#android.support.VERSION
-ADDED from [com.android.support:design:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/39af7c1af022f3ad03d34912617dd08f/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/dfbfdd556b88f8cf818b095532fbed0a/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/dfbfdd556b88f8cf818b095532fbed0a/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/b6e3b663c6b3376bd9162ff3259bc1e5/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/b6e3b663c6b3376bd9162ff3259bc1e5/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/b9072d9edc23257a7d2352969332cbda/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/b9072d9edc23257a7d2352969332cbda/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/ad4cad7145cacdece62d7a20d4e974c9/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/ad4cad7145cacdece62d7a20d4e974c9/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/3d91011b79815dcea0a84373a4a65730/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/3d91011b79815dcea0a84373a4a65730/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/145ad8a3f3d374ee6eb7358742566d0e/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/145ad8a3f3d374ee6eb7358742566d0e/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/5c06333f53fb4503dd1dce884f996cf8/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/5c06333f53fb4503dd1dce884f996cf8/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/e9b740f1bdea4b272eb0bd074db11851/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/e9b740f1bdea4b272eb0bd074db11851/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/912bc2f956c56447d546e37c3c5b17e7/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/912bc2f956c56447d546e37c3c5b17e7/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/b39e9d199182231644183d5e832b06ca/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/b39e9d199182231644183d5e832b06ca/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/78ec2d528e2a4c99239218295f3d4a5e/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/78ec2d528e2a4c99239218295f3d4a5e/AndroidManifest.xml:25:5-27:41
-	android:value
-		ADDED from [com.android.support:design:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/39af7c1af022f3ad03d34912617dd08f/AndroidManifest.xml:27:9-38
-	android:name
-		ADDED from [com.android.support:design:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/39af7c1af022f3ad03d34912617dd08f/AndroidManifest.xml:26:9-47
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [:kinvey_nativescript_sdk:] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/kinvey_nativescript_sdk.aar/6604cf994bf69d3e1d19f8cc054afac8/AndroidManifest.xml:9:5-79
+ADDED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:20:2-75
 	android:name
-		ADDED from [:kinvey_nativescript_sdk:] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/kinvey_nativescript_sdk.aar/6604cf994bf69d3e1d19f8cc054afac8/AndroidManifest.xml:9:22-76
+		ADDED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:20:19-73
+application
+ADDED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:22:2-43:16
+MERGED from [com.android.support:design:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/60ff648d178dcb8e3b15058d5f368d6d/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/60ff648d178dcb8e3b15058d5f368d6d/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/b37d847ade2b180d0992be0a664ccd90/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/b37d847ade2b180d0992be0a664ccd90/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/bc7ce94141eb3b06e9e8a6358dd85b5f/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/bc7ce94141eb3b06e9e8a6358dd85b5f/AndroidManifest.xml:29:5-20
+MERGED from [:widgets-release:] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/03560575c973d6fc8c43c6a3e35ba2a5/AndroidManifest.xml:11:5-12:19
+MERGED from [:widgets-release:] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/03560575c973d6fc8c43c6a3e35ba2a5/AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/b790104396797272146d7744ec3b0eea/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/b790104396797272146d7744ec3b0eea/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:26:3-35
+	android:icon
+		ADDED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:25:3-32
+	android:allowBackup
+		ADDED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:24:3-29
+	android:theme
+		ADDED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:27:3-34
+	android:name
+		ADDED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:23:3-49
+activity#com.tns.NativeScriptActivity
+ADDED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:29:3-41:14
+	android:label
+		ADDED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:31:4-49
+	android:configChanges
+		ADDED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:32:4-65
+	android:theme
+		ADDED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:33:4-44
+	android:name
+		ADDED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:30:4-47
+meta-data#SET_THEME_ON_LAUNCH
+ADDED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:35:4-87
+	android:resource
+		ADDED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:35:50-84
+	android:name
+		ADDED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:35:15-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:37:4-40:20
+action#android.intent.action.MAIN
+ADDED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:38:5-57
+	android:name
+		ADDED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:38:13-54
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:39:5-65
+	android:name
+		ADDED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:39:15-62
+activity#com.tns.ErrorReportActivity
+ADDED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:42:3-57
+	android:name
+		ADDED from /Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/src/main/AndroidManifest.xml:42:13-55
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/60ff648d178dcb8e3b15058d5f368d6d/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/b37d847ade2b180d0992be0a664ccd90/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/b37d847ade2b180d0992be0a664ccd90/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/bc7ce94141eb3b06e9e8a6358dd85b5f/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/bc7ce94141eb3b06e9e8a6358dd85b5f/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/50901efe304b69fadc9084acf5ade1b6/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/50901efe304b69fadc9084acf5ade1b6/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/b790104396797272146d7744ec3b0eea/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/b790104396797272146d7744ec3b0eea/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/60ff648d178dcb8e3b15058d5f368d6d/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] /Users/mbelaj/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/60ff648d178dcb8e3b15058d5f368d6d/AndroidManifest.xml:26:9-47

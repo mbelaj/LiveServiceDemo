@@ -4,13 +4,13 @@
             "outputFile": "/Users/mbelaj/LiveServiceDemo/LiveServiceDemo/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "/Users/mbelaj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/dfbfdd556b88f8cf818b095532fbed0a/res/values-v24/values-v24.xml",
+                    "source": "/Users/mbelaj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/1c3f64ea7502bbc9d46ffba119c5bafb/res/values-v24/values-v24.xml",
                     "from": {
-                        "startLines": "2,3,4,5,6,7",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "55,212,347,416,480,549",
-                        "endColumns": "156,134,68,63,68,69",
-                        "endOffsets": "207,342,411,475,544,614"
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
                     }
                 }
             ]
